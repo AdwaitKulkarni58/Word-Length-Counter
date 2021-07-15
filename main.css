@@ -1,0 +1,56 @@
+body {
+    background-image: linear-gradient(to right, tan, teal);
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4rem;
+    color: gold;
+    padding: 3%;
+}
+
+#main-window {
+    text-align: center;
+}
+
+#text-area {
+    font-size: 2.5rem;
+    font-family: Garamond, sans-serif;
+    color: #0A1931;
+    font-weight: bold;
+    padding: 10px;
+}
+
+#text {
+    width: 200px;
+    height: 30px;
+    margin-bottom: 5px;
+    font-family: monospace;
+    font-size: 1.5rem;
+}
+
+#answer {
+    color: black;
+    font-size: 4rem;
+    font-family: Verdana, cursive;
+    padding: 40px;
+    font-weight: bold;
+}
+
+#find-answer {
+    padding: 40px;
+}
+
+.Button {
+    background-color: tan;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.Button:hover {
+    background-color: chocolate;
+}
+
+
